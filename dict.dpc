@@ -1,0 +1,15 @@
+dictionary {
+	config {
+		key {
+			powerSet {
+				value: false
+			}
+			scheduleSet {
+				value: true
+			}
+		}
+	}
+	enabled: true
+	label: 'christmas'
+	sn: 1002
+}
